@@ -1,6 +1,6 @@
 # CSRF Vulnerability Demonstration - Website
 
-**Author:** Antonio BALTAZAR  
+**Author:** VulnSeek  
 **Date:** 08/12/2023
 
 ---
